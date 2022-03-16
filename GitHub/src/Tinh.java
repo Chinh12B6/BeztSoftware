@@ -1,6 +1,6 @@
  public tinh() {
-        a = 0;
-        b = 0;
+        a = 1;
+        b = 1;
     }
     public tinh(double a, double b) {
         this.a = a;
