@@ -1,6 +1,6 @@
  public tinh() {
-        a = 1;
-        b = 1;
+        a = 0;
+        b = 0;
     }
     public tinh(double a, double b) {
         this.a = a;
@@ -12,7 +12,3 @@
         System.out.print("\nEnter Second Number: ");
         b = sc.nextDouble();
     }
-    System.out.print("\nSum:"+(a+b));
-    System.out.print("\nDifference:"+(a-b));
-    System.out.print("\nProduct:"+(a*b));
-    System.out.print("\nQuotient:"+(a/b));
