@@ -1,4 +1,4 @@
- public tinh() {
+ public tinhtoan() {
         a = 0;
         b = 0;
     }
